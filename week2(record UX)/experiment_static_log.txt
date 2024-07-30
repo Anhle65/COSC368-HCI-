@@ -1,0 +1,13 @@
+Name,condition,target character,block-count,time taken to click key
+Anh,static,f,1,7472.604990005493
+Anh,static,t,1,4955.307245254517
+Anh,static,r,1,2756.0489177703857
+Anh,static,n,1,1812.6132488250732
+Anh,static,m,1,1731.8313121795654
+Anh,static,y,1,1043.245553970337
+Anh,static,t,2,3883.707046508789
+Anh,static,n,2,3340.0115966796875
+Anh,static,f,2,2987.985849380493
+Anh,static,r,2,1323.535442352295
+Anh,static,m,2,2171.7631816864014
+Anh,static,y,2,1155.3277969360352

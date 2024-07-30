@@ -1,0 +1,9 @@
+Name,condition,target character,block-count,time taken to click key
+Anh,dynamic,l,1,2964.869737625122
+Anh,dynamic,j,1,1861.703872680664
+Anh,dynamic,s,1,1413.8851165771484
+Anh,dynamic,v,1,45372.67875671387
+Anh,dynamic,z,1,2269.0234184265137
+Anh,dynamic,y,1,4885.2598667144775
+Anh,dynamic,z,2,2950.218439102173
+Anh,dynamic,l,2,1468.1813716888428
